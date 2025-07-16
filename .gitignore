@@ -1,0 +1,16 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment directory (if you use one, highly recommended)
+.venv/
+venv/
+
+# Log file
+cyber_notifications.log
+
+# Seen entries JSON file
+seen_cyber_entries.json
+
+# Environment variables file (if you create one for local API keys)
+.env
